@@ -6,15 +6,15 @@ The Pandas library is a fundamental tool for data manipulation and analysis in P
 
 # This repository contains the following folders:
 
-01-introduction-to-pandas: Contains my notes and code examples from the introductory lessons of the Kaggle "Learn Pandas" tutorial.
+1. introduction-to-pandas: Contains my notes and code examples from the introductory lessons of the Kaggle "Learn Pandas" tutorial.
 
-02-indexing-selecting-data: Contains my notes and code examples on how to index and select data in a Pandas DataFrame.
+2. indexing-selecting-data: Contains my notes and code examples on how to index and select data in a Pandas DataFrame.
 
-03-data-cleaning-with-pandas: Contains my notes and code examples on how to handle missing data and clean a dataset using Pandas.
+3. data-cleaning-with-pandas: Contains my notes and code examples on how to handle missing data and clean a dataset using Pandas.
 
-04-data-manipulation-with-pandas: Contains my notes and code examples on how to manipulate data in a Pandas DataFrame, including merging, joining, and grouping data.
+4. data-manipulation-with-pandas: Contains my notes and code examples on how to manipulate data in a Pandas DataFrame, including merging, joining, and grouping data.
 
-05-data-visualization-with-pandas: Contains my notes and code examples on how to create basic visualizations with Pandas.
+5. data-visualization-with-pandas: Contains my notes and code examples on how to create basic visualizations with Pandas.
 Getting Started
 
 # Contributing
