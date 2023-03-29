@@ -16,5 +16,3 @@ Getting Started
 # Contributing
 If you find any errors or have any suggestions for improvement, feel free to submit an issue or a pull request. I am always open to feedback and contributions.
 
-# License
-This repository is licensed under the MIT License. Feel free to use the code and notes for your own learning purposes.
